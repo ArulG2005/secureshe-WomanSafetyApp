@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850742267226",
+    "project_id": "she-5e596",
+    "storage_bucket": "she-5e596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850742267226:android:644288338d19019316b763",
+        "android_client_info": {
+          "package_name": "com.example.securesheapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK8jZCYRqFipX2TLE0G-VDMSQsPzdW9fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
